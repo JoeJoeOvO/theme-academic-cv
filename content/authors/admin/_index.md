@@ -52,7 +52,7 @@ interests:
   - Reinforcement Learning
 
 education:
-  - area: Ph.D. student in Control Science and Engineering
+  - area: Ph.D. in Control Science and Engineering
     institution: Harbin Institute of Technology, Shenzhen
     date_start: 2023-09-01
     date_end: 2023-09-01
