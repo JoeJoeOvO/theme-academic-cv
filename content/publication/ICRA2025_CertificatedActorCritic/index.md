@@ -11,10 +11,10 @@ authors:
   - Huijun Gao
 
 # Author notes (optional)
-author_notes:
-  - 'test'
-  - '2'
-  - '*'
+# author_notes:
+#   - 'test'
+#   - '2'
+#   - '*'
 
 
 date: '2025-01-01T00:00:00Z'
