@@ -40,7 +40,8 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    # notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Junjun Xie. This work is licensed under MIT License.'
     license:
       enable: true
       allow_derivatives: false
