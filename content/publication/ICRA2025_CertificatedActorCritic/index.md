@@ -30,13 +30,13 @@ publication_types: ['paper-conference']
 publication: In *IEEE International Conference on Robotics and Automation (ICRA 2025)*, Atlanta, USA.
 publication_short: In *ICRA 2025*
 
-abstract: Control Barrier Functions (CBFs) have emerged as a prominent approach to designing safe navigation systems of robots. Despite their popularity, current CBF-based methods exhibit some limitations: optimization-based safe control techniques tend to be either myopic or computationally intensive, and they rely on simplified system models; conversely, the learning-based methods suffer from the lack of quantitative indication in terms of navigation performance and safety. In this paper, we present a new model-free reinforcement learning algorithm called Certificated Actor-Critic (CAC), which introduces a hierarchical reinforcement learning framework and well-defined reward functions derived from CBFs. We carry out theoretical analysis and proof of our algorithm, and propose several improvements in algorithm implementation. Our analysis is validated by two simulation experiments, showing the effectiveness of our proposed CAC algorithm.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - ICRA 2025
+  - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,12 +47,12 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_poster: 'poster.pdf'
-# url_project: ''
-# url_slides: ''
-# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_video: 'https://youtube.com'
 
 # Featured image
