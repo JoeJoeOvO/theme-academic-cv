@@ -12,8 +12,10 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'test'
+  - '2'
+  - '*'
+
 
 date: '2025-01-01T00:00:00Z'
 doi: ''
