@@ -52,7 +52,7 @@ interests:
   - Reinforcement Learning
 
 education:
-  - area: Ph.D. in Control Science and Engineering
+  - area: Ph.D. student in Control Science and Engineering
     institution: Harbin Institute of Technology, Shenzhen
     date_start: 2023-09-01
     date_end: 2023-09-01
@@ -183,4 +183,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am junjun xie (谢君军)， a Ph.D. student from CLASS-LAB, Harbin Institute of Technology, Shenzhen.
+
