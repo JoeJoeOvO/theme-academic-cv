@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0008-4975-2461
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robot Safety
+  - Legged Robots
+  - Reinforcement Learning
 
 education:
   - area: Ph.D. student in Control Science and Engineering
     institution: Harbin Institute of Technology, Shenzhen
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-09
+    date_end: now
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -74,8 +74,8 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.E. in Automation
     institution: Harbin Institute of Technology, Shenzhen
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-09
+    date_end: 2023-06
     summary: |
       GPA: 3.4/4.0
       
